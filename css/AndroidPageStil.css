@@ -1,0 +1,18 @@
+﻿body 
+{	
+}
+.solMenu
+{
+	float:left;
+	height:500px;
+	margin:5px;
+	width:70%;		
+}
+.sagMenu
+{	
+	float:left;
+	height:500px;
+	margin:5px;
+	width:25%;
+
+}
